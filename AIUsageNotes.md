@@ -2,7 +2,7 @@
    Github Copilot
 
 2. What prompt or query you gave.  
-   I used copilot to avoid duplicated code in the color card.
+   I used copilot to avoid type duplicated code in the color card.
 
 
 3. What you kept or discarded from the output.
